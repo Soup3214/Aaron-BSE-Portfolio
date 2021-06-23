@@ -5,7 +5,7 @@ Nowdays, reading the time is boring. All one needs to do is to take a glance at 
 |:--:|:--:|:--:|:--:|
 | Aaron Fang | Paly | Undecided | Upcoming Sophmore 
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://cdn.discordapp.com/attachments/799773888032014406/857099616511328276/IMG_0419.jpg)
   
 # First Milestone: Learning to read time with Arduino 
 My first milestone I made for myself in the process of making the clock was to learn how to read time using an Arduino, I had to do this because reading the time is the most important feature of a clock. In order to do this, I needed to 
