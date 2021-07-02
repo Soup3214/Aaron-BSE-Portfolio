@@ -13,9 +13,9 @@ My first milestone I made for myself in the process of making the clock was to l
 [![First Milestone](https://cdn.discordapp.com/attachments/799773888032014406/858075178101768232/Screen_Shot_2021-06-25_at_1.01.29_PM.png)](https://youtu.be/JirGGPNNe5g&feature=emb_logo "First Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second Milestone was for me to have finished the physical build. I didn't want to worry about the code in that time. So I decided to get the pysical build done first. This was done by first wiring up 13 LEDS to a breadboard, therefore making a small prototype for the physical build. Then I decided I wanted to solder the wires into a perf board to make the clock more permanente than if I were to use a breadboard. After soldering the wires into a breadboard, the next logical step was for me to put it into a container which would allow me to show the time how I wanted. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vvg8xu6B3hI){:target="_blank" rel="noopener"}
 # Last Milestone
   
 
