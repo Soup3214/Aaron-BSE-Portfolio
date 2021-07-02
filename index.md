@@ -17,7 +17,7 @@ My second Milestone was for me to have finished the physical build. I didn't wan
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vvg8xu6B3hI){:target="_blank" rel="noopener"}
 # Last Milestone
-The last milestone I set for myself  
+The last milestone I set for myself was for me to compelete the build, physical and not so physical.
 
 
 
