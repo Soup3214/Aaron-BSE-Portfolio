@@ -29,36 +29,66 @@ The last milestone I set for myself was for me to complete the build, physical a
 #include "RTClib.h"
 
 RTC_DS3231 rtc;
+
  //arduino pins
+ 
 int oneTenHours = 13; //this is the tens integer for Hours first bit
+
 int twoTenHours = 12;
+
 int oneOneHours = 11; //this is the ones integer for Hours first bit
+
 int twoOneHours = 10;
+
 int fourOneHours = 9;
+
 int eightOneHours = 8;
+
 int oneTenMinutes = 7; //this is the tens integer for minutes first bit
+
 int twoTenMinutes = 6;
+
 int fourTenMinutes = 5;
+
 int oneOneMinutes = 4; //this is the ones integer for minutes first bit
+
 int twoOneMinutes = 3;
+
 int fourOneMinutes = 2;
+
 int eightOneMinutes = A0;
 
+
 void setup() {
+
   // put your setup code here, to run once:
+  
   pinMode(oneTenMinutes, OUTPUT);
+  
   pinMode(twoTenMinutes, OUTPUT);
+  
   pinMode(fourTenMinutes, OUTPUT);
+  
   pinMode(oneOneMinutes, OUTPUT);
+  
   pinMode(twoOneMinutes, OUTPUT);
+  
   pinMode(fourOneMinutes, OUTPUT);
+  
   pinMode(eightOneMinutes, OUTPUT);
+  
   pinMode(oneTenHours, OUTPUT);
+  
   pinMode(twoTenHours, OUTPUT);
+  
   pinMode(oneOneHours, OUTPUT);
+  
   pinMode(twoOneHours, OUTPUT);
+  
   pinMode(fourOneHours, OUTPUT);
+  sadf
   pinMode(eightOneHours, OUTPUT);
+  
   
   Serial.begin(9600);
   delay(3000);
