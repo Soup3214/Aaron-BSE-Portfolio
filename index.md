@@ -25,7 +25,9 @@ The last milestone I set for myself was for me to complete the build, physical a
 
 # CODE
 #include <Wire.h>
+
 #include "RTClib.h"
+
 RTC_DS3231 rtc;
  //arduino pins
 int oneTenHours = 13; //this is the tens integer for Hours first bit
