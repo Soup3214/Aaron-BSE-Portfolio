@@ -15,7 +15,7 @@ My first milestone I made for myself in the process of making the clock was to l
 # Second Milestone
 My second Milestone was for me to have finished the physical build. I didn't want to worry about the code in that time. So I decided to get the physical build done first. This was done by first wiring up 13 LEDS to a breadboard, therefore making a small prototype for the physical build. Then I decided I wanted to solder the wires into a perf board to make the clock more permanent than if I were to use a breadboard. After soldering the wires into a breadboard, the next logical step was for me to put it into a container which would allow me to show the time how I wanted. 
 
-[![Third Milestone](https://cdn.discordapp.com/attachments/753451633308074024/865342117440913448/IMG_0442.jpg)](https://youtu.be/vvg8xu6B3hI){:target="_blank" rel="noopener"}
+[![Third Milestone](https://cdn.discordapp.com/attachments/753451633308074024/865342117440913448/IMG_0442.jpg = 250x250)](https://youtu.be/vvg8xu6B3hI){:target="_blank" rel="noopener"}
 # Last Milestone
 The last milestone I set for myself was for me to complete the build, physical and the code. Since I already had the physical build done, I needed to get the code done. Originally, I planned on using a few buttons to manually need to change the time. Sort of like a regular clock. Then I shifted my plan to use a RTC chip to be able to track the time. With the RTC in, All I needed to do was convert the RTC time into a way showable by the LED’s in the front. And once that was done. The clock was complete. You could tell what time it was just from the LEDs. 
 
